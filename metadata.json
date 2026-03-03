@@ -1,0 +1,8 @@
+{
+  "name": "combine dither and vis",
+  "description": "ioio",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
